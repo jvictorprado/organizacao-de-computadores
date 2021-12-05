@@ -1,0 +1,10 @@
+• Modelo de sistemas digitais
+• Unidade de controle
+• Unidade de processamento
+• Conceitos básicos de arquitetura
+• Sistemas de barramento
+• Organização de memória
+• Suporte de hardware para sistemas operacionais
+• Entrada e saída
+• Memórias secundárias
+• Conceitos básicos de conjunto de instruções
