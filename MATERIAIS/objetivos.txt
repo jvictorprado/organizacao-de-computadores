@@ -1,0 +1,9 @@
+Apresentar ao estudante conceitos básicos de organização de computadores, capacitando-o a melhor compreender o desenvolvimento das tecnologias de processadores, barramentos, dispositivos de armazenamento e de entrada e saída.
+Ao final do semestre o estudante estará capacitado a:
+
+1) Compreender o desenvolvimento dos processadores a partir do conceito de família de processadores;
+2) Entender as tecnologias de barramento e seu papel em sistemas de computação;
+3) Ter conhecimento das diferentes tecnologias de armazenamento de dados e das perspectivas de novas tecnologias de armazenamento, bem como de suas aplicações;
+4) Compreender o uso de hierarquia de memória em sistemas de computação;
+5) Entender como se dá o gerenciamento de memória em sistemas de computação;
+6) Ter uma noção básica do papel do sistema operacional em sistemas de computação e sua relação com o hardware.
