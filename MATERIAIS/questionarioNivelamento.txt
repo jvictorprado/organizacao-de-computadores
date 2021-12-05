@@ -1,0 +1,8 @@
+O que é um computador? O que é programa? O que é instrução?
+Defina o que você entende por processador.
+Explique o que você entende sobre desempenho de um sistema computacional.
+Cite até 3 processadores de qualquer marca ou aplicação.
+O que você entende por interrupção?
+Quanto vale o número 0x00AA em decimal?
+Como se representa 1023 em binário?
+Para que serve... 1 – Memória volátil: 2 – Memória não volátil:
