@@ -1,0 +1,14 @@
+BIBLIOGRAFIA BÁSICA
+
+1. STALLINGS, William. Arquitetura e organização de computadores. 8. ed. São Paulo: Pearson, 2010. xix, 624p. ISBN 85-76055648.
+2. PATTERSON, David A.; HENNESSY, John L. Organização e projeto de computadores: a interface hardware/software. 3. ed. Rio de Janeiro: Elsevier, c2005. xvii,
+3. 484 p. ISBN 8535215212.
+4. DE ROSE, César A. F.; NAVAUX, Philippe O. A. Arquiteturas paralelas. Porto Alegre: Sagra Luzzatto, 2003. 152 p. ISBN 8524106832.
+5. HENNESSY, J. L. e PATTERSON, D. A. Arquitetura de Computadores: Uma abordagem Quantitativa. John L. Hennessy e David A. Patterson. Editora: Campus. ISBN: 8535211101, 2003.
+
+
+BIBLIOGRAFIA COMPLEMENTAR
+
+1. M. MORRIS MANO E CHARLES L. KIME. Logic and Computer Design Fundamentals. Editora Prentice-Hall. ISBN: 013198926X, 2007.
+2. DAVID M. HARRIS E SARAH L. HARRIS. Digital Design and Computer Architecture. Editora Elsevier. ISBN: 9780123704979, 2007.
+3. D'AMORE, Roberto. VHDL: descrição e síntese de circuitos digitais. Rio de Janeiro: LTC, 2005. 259 p. ISBN 9788521614524.
